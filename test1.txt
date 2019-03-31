@@ -1,0 +1,10 @@
+this is my first file 
+this is my first repository c
+exit
+
+..
+-c
+^c
+this is my first file ^c
+:wq
+
